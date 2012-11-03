@@ -19,13 +19,15 @@ biometric or any other purposes.
 
 Results:
 
-![Results](/images/logo.png)
+![Results](https://raw.github.com/jmiseikis/IrisSegmentation-CUDA/master/images/results.png)
 
 Runtime comparison CPU vs GPU:
 
-![GitHub Logo](/images/logo.png)
+![Runtime](https://raw.github.com/jmiseikis/IrisSegmentation-CUDA/master/images/timing.png)
 
 Very low-end GPU was used for testing (nVidia GeForce G210 with 512 MB), the acceleration 
 would be significantly higher with medium-high end GPU. Both CPU and GPU implementations 
 were __not__ highly optimised, rather used as a proof of concept, and optimisation 
 would improve the runtime in both cases.
+
+Slideshow of the presentation: http://www.slideshare.net/jmiseikis/cuda-based-iris-detection-based-on-hough-transform
