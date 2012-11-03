@@ -29,3 +29,5 @@ Very low-end GPU was used for testing (nVidia GeForce G210 with 512 MB), the acc
 would be significantly higher with medium-high end GPU. Both CPU and GPU implementations 
 were __not__ highly optimised, rather used as a proof of concept, and optimisation 
 would improve the runtime in both cases.
+
+Slideshow of the presentation: http://www.slideshare.net/jmiseikis/cuda-based-iris-detection-based-on-hough-transform
