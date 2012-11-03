@@ -19,11 +19,11 @@ biometric or any other purposes.
 
 Results:
 
-![Results](/images/logo.png)
+![Results](https://raw.github.com/jmiseikis/IrisSegmentation-CUDA/master/images/results.png)
 
 Runtime comparison CPU vs GPU:
 
-![GitHub Logo](/images/logo.png)
+![Runtime](https://raw.github.com/jmiseikis/IrisSegmentation-CUDA/master/images/timing.png)
 
 Very low-end GPU was used for testing (nVidia GeForce G210 with 512 MB), the acceleration 
 would be significantly higher with medium-high end GPU. Both CPU and GPU implementations 
